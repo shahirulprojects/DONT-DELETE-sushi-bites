@@ -6,7 +6,7 @@
   flex-direction: column;
 
   background-color: var(--primary-color);
-  background-image: url("../../assets/popular_bg.png");
+  /* background-image: url("../../assets/popular_bg.png"); */
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -101,6 +101,10 @@ overflow-x:auto means that on smaller device we have to scroll down */
   background: var(--secondary-color);
   border-radius: 64px;
   cursor: pointer;
+}
+
+.popular-foods__button:hover {
+  background: #ffc60b;
 }
 
 .popular-foods__button img {

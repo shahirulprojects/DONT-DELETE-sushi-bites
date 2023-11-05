@@ -15,8 +15,8 @@
   --playfair-display: "Playfair Display", serif;
   --plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;
 
-  --primary-color: #b1454a;
-  --secondary-color: #121212;
+  --primary-color: rgb(1, 6, 90);
+  --secondary-color: rgb(246, 190, 0);
 
   --black-200: #020202;
   --black-300: #333333;
@@ -87,7 +87,7 @@ a {
   line-height: 36px;
   letter-spacing: -0.01em;
 
-  color: var(--secondary-color);
+  color: var(--black-200);
   opacity: 0.8;
 
   margin: 32px 0px;

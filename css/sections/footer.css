@@ -42,7 +42,7 @@
   font-weight: 500;
   font-family: var(--plus-jakarta-sans);
   text-transform: uppercase;
-  color: var(--secondary-color);
+  color: var(--black-200);
 
   cursor: pointer;
 }
@@ -60,4 +60,5 @@
   height: 45%;
 
   object-fit: contain;
+  cursor: pointer;
 }

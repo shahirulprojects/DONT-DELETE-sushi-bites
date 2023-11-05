@@ -62,7 +62,7 @@
   font-size: 80px;
   font-weight: 600px;
   font-family: var(--playfair-display);
-  color: var(--secondary-color);
+  color: var(--black-200);
 }
 
 /* margin: top  right  bottom  left */
@@ -71,7 +71,7 @@
   margin: 32px 0 32px 32px;
 
   font-family: var(--plus-jakarta-sans);
-  color: var(--secondary-color);
+  color: var(--black-200);
   font-size: 18px;
   font-weight: 400;
 }
@@ -101,6 +101,10 @@
   font-weight: 500;
   font-size: 18px;
   line-height: 23px;
+}
+
+.hero-content__order-button:hover {
+  background: #ffc60b;
 }
 
 /* align-items:center means that the items will be aligned at the center which in this case is horizontal because we use flex which means row */
@@ -155,7 +159,7 @@
   font-size: 16px;
   font-weight: 400;
   font-family: var(--plus-jakarta-sans);
-  color: var(--secondary-color);
+  color: var(--black-200);
   opacity: 0.5;
 }
 
@@ -181,6 +185,6 @@
   font-weight: 400;
   line-height: 32px;
   font-family: var(--plus-jakarta-sans);
-  color: var(--secondary-color);
+  color: var(--black-200);
   opacity: 0.8;
 }

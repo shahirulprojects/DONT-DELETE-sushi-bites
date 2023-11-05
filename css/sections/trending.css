@@ -7,9 +7,6 @@
   overflow: hidden;
 }
 
-.trending__discover {
-}
-
 .trending-sushi,
 .trending-drink {
   width: 100%;
@@ -64,7 +61,7 @@
   font-weight: 500;
   font-family: var(--plus-jakarta-sans);
 
-  color: var(--secondary-color);
+  color: var(--black-200);
 }
 
 .trending__image {
@@ -102,12 +99,16 @@
   width: 160px;
   height: 160px;
 
-  background-color: var(--secondary-color);
+  background-color: #87ceeb;
   border-radius: 100%;
 
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.trending__discover:hover {
+  background-color: #95e1ff;
 }
 
 .trending__discover p {
