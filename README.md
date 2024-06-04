@@ -37,7 +37,7 @@ Build a sushi website showcasing popular food, trending sushi, and drinks using 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **CSS Variables**: Utilize CSS variables to maintain a consistent and easily adjustable styling approach throughout the project
+👉 **CSS Variables**: Utilize CSS variables to maintain a consistent and easily adjustable styling approach throughout the project.
 
 👉 **Importing CSS Files**: Import CSS files into others, promoting modularity and organization in styling.
 
