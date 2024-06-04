@@ -54,11 +54,11 @@ Build a sushi website showcasing popular food, trending sushi, and drinks using 
 👉 **Responsive Design**: The application is completely responsive across all devices, employing responsive design techniques such as media queries and fluid layouts.
 
 all these while creating the sushi website with,
-* Navigation Bar
-* Creative Hero Section
-* About Us Section
-* Popular Food, Trending Sushi, and Drinks Sections
-* Newsletter Signup and Footer
+* Navigation Bar.
+* Creative Hero Section.
+* About Us Section.
+* Popular Food, Trending Sushi, and Drinks Sections.
+* Newsletter Signup and Footer.
 
 
 ## <a name="quick-start">🤸 Quick Start</a>
