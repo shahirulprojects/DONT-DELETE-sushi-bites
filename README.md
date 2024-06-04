@@ -502,48 +502,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 </details>
 
-<details>
-<summary><code>missed-navbar-code.css</code></summary>
-
-```css
-.header__menu,
-.header__menu-mobile {
-  padding: 20px;
-
-  flex: 1.235;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  gap: 64px;
-
-  list-style: none;
-}
-
-.header__menu li {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
-  text-transform: uppercase;
-  font-family: var(--plus-jakarta-sans);
-  color: var(--secondary-color);
-  cursor: pointer;
-}
-
-.header__menu li img {
-  width: 24px;
-  height: 24px;
-  object-fit: contain;
-}
-
-.header__menu-mobile {
-  display: none;
-  gap: 20px;
-
-  position: relative;
-}
-```
-
-</details>
 
 
 <details>
