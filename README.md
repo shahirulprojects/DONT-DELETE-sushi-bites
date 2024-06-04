@@ -75,8 +75,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_html_css_website.git
-cd project_html_css_website
+git clone https://github.com/shahirulprojects/Sushi-Bites.git
+cd Sushi-Bites
 ```
 
 **Installation**
