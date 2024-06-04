@@ -33,6 +33,7 @@ Build a sushi website showcasing popular food, trending sushi, and drinks using 
 - HTML 5
 - CSS 3
 - Vite
+- Netlify
 
 ## <a name="features">🔋 Features</a>
 
